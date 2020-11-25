@@ -1,0 +1,16 @@
+PODS:
+  - CGReSos (0.1.0)
+
+DEPENDENCIES:
+  - CGReSos (from `../`)
+
+EXTERNAL SOURCES:
+  CGReSos:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CGReSos: c944519a6b1ae10a1a0e1c2d4524d71d66bae6c8
+
+PODFILE CHECKSUM: 6ddc7cf4bd751533aad525e5a03b418a659a7124
+
+COCOAPODS: 1.10.0

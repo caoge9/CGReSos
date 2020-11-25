@@ -1,0 +1,6 @@
+framework module CGReSos {
+  umbrella header "CGReSos-umbrella.h"
+
+  export *
+  module * { export * }
+}

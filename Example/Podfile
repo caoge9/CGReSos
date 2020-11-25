@@ -1,0 +1,6 @@
+use_frameworks!
+target 'CGReSos_Tests' do
+  pod 'CGReSos', :path => '../'
+  
+  
+end

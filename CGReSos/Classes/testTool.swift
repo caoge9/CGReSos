@@ -13,4 +13,8 @@ class Test {
     func showMsg(){
         print("show出新高度")
     }
+    
+    func what(){
+        print("咋回事")
+    }
 }

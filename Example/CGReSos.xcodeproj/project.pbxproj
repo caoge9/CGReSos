@@ -11,6 +11,8 @@
 		8E44F7312570E73400985F49 /* tester.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E44F7302570E73400985F49 /* tester.swift */; };
 		8E44F7382570EB1000985F49 /* File.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E44F7372570EB1000985F49 /* File.swift */; };
 		8E44F73D2570ECD800985F49 /* newfeil.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E44F73C2570ECD800985F49 /* newfeil.swift */; };
+		8E44F7422570EDA900985F49 /* File2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E44F7412570EDA900985F49 /* File2.swift */; };
+		8E44F7452570EDCC00985F49 /* hev.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E44F7442570EDCC00985F49 /* hev.swift */; };
 		E8DC7F610731437CE7530844 /* Pods_CGReSos_Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4BAB4F8DF9F93A7D4CE868A1 /* Pods_CGReSos_Tests.framework */; };
 /* End PBXBuildFile section */
 
@@ -24,6 +26,8 @@
 		8E44F7302570E73400985F49 /* tester.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tester.swift; sourceTree = "<group>"; };
 		8E44F7372570EB1000985F49 /* File.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = File.swift; sourceTree = "<group>"; };
 		8E44F73C2570ECD800985F49 /* newfeil.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = newfeil.swift; sourceTree = "<group>"; };
+		8E44F7412570EDA900985F49 /* File2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = File2.swift; sourceTree = "<group>"; };
+		8E44F7442570EDCC00985F49 /* hev.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = hev.swift; sourceTree = "<group>"; };
 		BC4F9DEFC8C412F0B376F71E /* Pods-CGReSos_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CGReSos_Tests.debug.xcconfig"; path = "Target Support Files/Pods-CGReSos_Tests/Pods-CGReSos_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		C50115744BC2087C0D9A4DED /* Pods-CGReSos_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CGReSos_Tests.release.xcconfig"; path = "Target Support Files/Pods-CGReSos_Tests/Pods-CGReSos_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		CB228984CD00989D3628F793 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
@@ -45,6 +49,8 @@
 			isa = PBXGroup;
 			children = (
 				8E44F7302570E73400985F49 /* tester.swift */,
+				8E44F7412570EDA900985F49 /* File2.swift */,
+				8E44F7442570EDCC00985F49 /* hev.swift */,
 				8E44F7372570EB1000985F49 /* File.swift */,
 				8E44F73C2570ECD800985F49 /* newfeil.swift */,
 				607FACF51AFB993E008FA782 /* Podspec Metadata */,
@@ -224,9 +230,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				8E44F7312570E73400985F49 /* tester.swift in Sources */,
+				8E44F7452570EDCC00985F49 /* hev.swift in Sources */,
 				8E44F7382570EB1000985F49 /* File.swift in Sources */,
 				8E44F73D2570ECD800985F49 /* newfeil.swift in Sources */,
 				607FACEC1AFB9204008FA782 /* Tests.swift in Sources */,
+				8E44F7422570EDA900985F49 /* File2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -1,5 +1,5 @@
 //
-//  tester.swift
+//  File.swift
 //  CGReSos_Tests
 //
 //  Created by CG on 2020/11/27.
@@ -9,9 +9,6 @@
 import Foundation
 
 
-
-func test() {
-    print("dkkk")
+func lost() {
+    
 }
-
-

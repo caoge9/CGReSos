@@ -41,6 +41,7 @@
 		7ED6A4C18C6706594FF7874A2E47698F /* Pods-CGReSos_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-CGReSos_Tests.modulemap"; sourceTree = "<group>"; };
 		81EC4340343D3C4CD3D8F491B849E7A2 /* Pods-CGReSos_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-CGReSos_Tests-dummy.m"; sourceTree = "<group>"; };
 		8E44F7562570FBDB00985F49 /* File.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = File.swift; sourceTree = "<group>"; };
+		8E44F7582571DF5000985F49 /* uidsd.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = uidsd.swift; sourceTree = "<group>"; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A9720F37B48D8FCC48DD133690C6D989 /* CGReSos-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "CGReSos-Info.plist"; sourceTree = "<group>"; };
 		BE919AA86B59A5C91314373CF95E1FA0 /* CGReSos.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = CGReSos.modulemap; sourceTree = "<group>"; };
@@ -133,6 +134,7 @@
 			isa = PBXGroup;
 			children = (
 				8E44F7562570FBDB00985F49 /* File.swift */,
+				8E44F7582571DF5000985F49 /* uidsd.swift */,
 				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
 				E813657B6C7D8B535DC5071565AC01F2 /* Development Pods */,
 				D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */,

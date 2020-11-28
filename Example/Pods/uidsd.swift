@@ -18,3 +18,6 @@ func seta() {
 func showsomething90 {
     
 }
+func showc(){
+    
+}

@@ -10,3 +10,7 @@ import Foundation
 func tes(){
     
 }
+
+func seta() {
+    
+}

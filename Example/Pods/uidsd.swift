@@ -18,4 +18,3 @@ func seta() {
 func showsomething90 {
     print("sdfsf")
 }
-

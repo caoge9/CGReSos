@@ -12,5 +12,10 @@ func tes(){
 }
 
 func seta() {
+    print("sdfsdf")
+}
+
+func showsomething90 {
     
 }
+
